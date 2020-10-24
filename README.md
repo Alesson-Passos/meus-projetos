@@ -1,2 +1,2 @@
-# meus-projetos
- primeiro repositório versionado
+# Olá, mundo!
+ Primeiro repositório de Git e GitHub.
